@@ -8,6 +8,16 @@ body {
 }
 
 .container {
-    background-color: purple;
+    background-color: black;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container h1 {
+    color: white;
+    font-size: 120px;
+    font-weight: 100;
+    font-family: sans-serif;
 }
