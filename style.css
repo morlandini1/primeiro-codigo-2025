@@ -18,6 +18,12 @@ body {
 .container h1 {
     color: white;
     font-size: 120px;
-    font-weight: 100;
+    font-weight: 400;
     font-family: sans-serif;
 }
+.container p {
+    color: white;
+    font-size: 64px;
+    font-weight: 100;
+    font-style: italic;
+  }
